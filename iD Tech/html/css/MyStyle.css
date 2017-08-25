@@ -1,0 +1,17 @@
+a:link{color:#000000;}
+a:active{color:#3D004C;}
+a:visited{color:#CC00FF;}
+a:hover{color:#00FF00;}
+
+div{
+height:500px;
+width:300px;
+background-color:red;
+border:5px solid blue;
+position:relative;
+left:50px;
+top:50px;
+}
+p{color:#1A1A66;}
+.classTest{color:#99CCFF;}
+#idTest{color:red;}

@@ -1,0 +1,50 @@
+input
+{
+	position: relative;
+}
+
+#un
+{
+	left: 79px;
+}
+
+#p1
+{
+	left: 36px;
+}
+
+#p2
+{
+	left: 30px;
+}
+
+#un1
+{
+	left: 5px;
+}
+
+#ps1
+{
+	left: 6px;
+}
+
+.e1
+{
+	position: absolute;
+	left: 317px;
+	top: 53px;
+}
+
+.e2
+{
+	position: absolute;
+	left: 317px;
+	top: 79px;
+}
+
+.e3
+{
+	position: absolute;
+	left: 317px;
+	top: 105px;
+}
